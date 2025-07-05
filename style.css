@@ -1,0 +1,9 @@
+body {
+    background-color: lightpink;
+    text-align: center;
+    color: black;
+    font-family: 'Courier New', Courier, monospace
+}
+img {
+    border-radius: 20px;
+}
